@@ -1,0 +1,46 @@
+html {
+    overflow-y: scroll; 
+}
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #003135;
+    color: #5BC2C2;
+    font-family: Tahoma, sans-serif;
+  }
+  
+  footer p {
+    margin: 5px 0;
+  }
+  
+  footer img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    margin-inline: -5px;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, sans-serif;
+    color: #5BC2C2;
+}
+
+.header {
+    text-align: center;
+}
+
+.header table {
+    width: 100%;
+}
+
+.header table td {
+    padding: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #5BC2C2;
+}
